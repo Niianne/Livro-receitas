@@ -1,2 +1,3 @@
-# Livro-receitas
+# Livro-receitas ❣
+
 Meu livro de receitas!
